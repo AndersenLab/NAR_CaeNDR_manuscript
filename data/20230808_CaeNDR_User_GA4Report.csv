@@ -1,0 +1,1153 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Erik Andersen
+# Property: CeNDR - GA4
+# ----------------------------------------
+#  
+# Start date: 20230201
+# End date: 20230807
+Nth day,Users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+0031,0
+0032,0
+0033,0
+0034,0
+0035,0
+0036,0
+0037,0
+0038,0
+0039,0
+0040,0
+0041,0
+0042,0
+0043,0
+0044,0
+0045,0
+0046,0
+0047,0
+0048,0
+0049,0
+0050,0
+0051,0
+0052,0
+0053,0
+0054,0
+0055,0
+0056,0
+0057,0
+0058,37
+0059,10
+0060,14
+0061,28
+0062,39
+0063,55
+0064,31
+0065,27
+0066,13
+0067,16
+0068,23
+0069,42
+0070,32
+0071,46
+0072,35
+0073,18
+0074,24
+0075,41
+0076,47
+0077,47
+0078,49
+0079,26
+0080,11
+0081,19
+0082,52
+0083,37
+0084,25
+0085,40
+0086,22
+0087,18
+0088,14
+0089,40
+0090,28
+0091,34
+0092,38
+0093,49
+0094,12
+0095,13
+0096,34
+0097,51
+0098,29
+0099,48
+0100,31
+0101,11
+0102,10
+0103,24
+0104,30
+0105,44
+0106,29
+0107,30
+0108,9
+0109,11
+0110,28
+0111,39
+0112,47
+0113,41
+0114,48
+0115,12
+0116,19
+0117,18
+0118,47
+0119,39
+0120,39
+0121,30
+0122,17
+0123,12
+0124,41
+0125,42
+0126,40
+0127,38
+0128,50
+0129,13
+0130,22
+0131,41
+0132,42
+0133,45
+0134,39
+0135,38
+0136,6
+0137,13
+0138,31
+0139,59
+0140,25
+0141,28
+0142,9
+0143,10
+0144,8
+0145,21
+0146,24
+0147,11
+0148,18
+0149,19
+0150,5
+0151,6
+0152,22
+0153,16
+0154,20
+0155,21
+0156,23
+0157,10
+0158,14
+0159,25
+0160,20
+0161,16
+0162,19
+0163,22
+0164,5
+0165,6
+0166,24
+0167,32
+0168,24
+0169,25
+0170,22
+0171,3
+0172,9
+0173,21
+0174,22
+0175,20
+0176,20
+0177,16
+0178,8
+0179,9
+0180,15
+0181,24
+0182,23
+0183,34
+0184,16
+0185,3
+0186,6
+0187,22
+
+# Start date: 20230201
+# End date: 20230807
+Nth day,New users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+0031,0
+0032,0
+0033,0
+0034,0
+0035,0
+0036,0
+0037,0
+0038,0
+0039,0
+0040,0
+0041,0
+0042,0
+0043,0
+0044,0
+0045,0
+0046,0
+0047,0
+0048,0
+0049,0
+0050,0
+0051,0
+0052,0
+0053,0
+0054,0
+0055,0
+0056,0
+0057,0
+0058,37
+0059,7
+0060,11
+0061,21
+0062,31
+0063,44
+0064,16
+0065,13
+0066,10
+0067,13
+0068,14
+0069,27
+0070,25
+0071,35
+0072,23
+0073,17
+0074,20
+0075,30
+0076,33
+0077,27
+0078,27
+0079,15
+0080,10
+0081,14
+0082,29
+0083,21
+0084,20
+0085,23
+0086,13
+0087,16
+0088,14
+0089,25
+0090,21
+0091,23
+0092,28
+0093,39
+0094,12
+0095,9
+0096,16
+0097,35
+0098,16
+0099,30
+0100,21
+0101,5
+0102,6
+0103,10
+0104,13
+0105,33
+0106,18
+0107,18
+0108,5
+0109,7
+0110,13
+0111,24
+0112,28
+0113,25
+0114,35
+0115,10
+0116,13
+0117,11
+0118,26
+0119,18
+0120,25
+0121,17
+0122,13
+0123,8
+0124,24
+0125,23
+0126,22
+0127,23
+0128,31
+0129,5
+0130,13
+0131,18
+0132,17
+0133,23
+0134,18
+0135,18
+0136,2
+0137,10
+0138,15
+0139,29
+0140,13
+0141,21
+0142,6
+0143,8
+0144,7
+0145,16
+0146,16
+0147,5
+0148,10
+0149,8
+0150,3
+0151,6
+0152,14
+0153,9
+0154,13
+0155,10
+0156,11
+0157,9
+0158,10
+0159,13
+0160,9
+0161,5
+0162,6
+0163,9
+0164,3
+0165,3
+0166,11
+0167,15
+0168,17
+0169,13
+0170,10
+0171,2
+0172,4
+0173,13
+0174,11
+0175,12
+0176,12
+0177,8
+0178,6
+0179,8
+0180,10
+0181,15
+0182,15
+0183,23
+0184,5
+0185,3
+0186,5
+0187,11
+
+#  
+# Start date: 20230201
+# End date: 20230807
+Country ID,Users
+AR,8
+AT,10
+AU,29
+BB,2
+BD,1
+BE,4
+BG,1
+BR,9
+CA,62
+CH,9
+CL,2
+CN,110
+CO,1
+CZ,5
+DE,233
+DK,7
+DZ,1
+EG,4
+ES,16
+ET,1
+FI,12
+FR,46
+GB,84
+GY,1
+HK,13
+HU,3
+ID,1
+IE,7
+IL,12
+IN,29
+IQ,1
+IR,4
+IT,5
+JO,1
+JP,18
+KR,23
+MD,1
+MX,9
+MY,2
+NL,34
+NO,3
+NZ,3
+PH,11
+PK,9
+PL,5
+PT,4
+RO,2
+RU,4
+SA,3
+SE,10
+SG,1
+TH,3
+TR,4
+TT,1
+TW,20
+US,1182
+VN,1
+ZA,4
+
+# Start date: 20230201
+# End date: 20230807
+Country,Users
+United States,1182
+Germany,233
+China,110
+United Kingdom,84
+Canada,62
+France,46
+Netherlands,34
+Australia,29
+India,29
+South Korea,23
+Taiwan,20
+Japan,18
+Spain,16
+Hong Kong,13
+Finland,12
+Israel,12
+Philippines,11
+Austria,10
+Sweden,10
+Brazil,9
+Mexico,9
+Pakistan,9
+Switzerland,9
+Argentina,8
+Denmark,7
+Ireland,7
+Czechia,5
+Italy,5
+Poland,5
+Belgium,4
+Egypt,4
+Iran,4
+Portugal,4
+Russia,4
+South Africa,4
+Türkiye,4
+Hungary,3
+New Zealand,3
+Norway,3
+Saudi Arabia,3
+Thailand,3
+Barbados,2
+Chile,2
+Malaysia,2
+Romania,2
+Algeria,1
+Bangladesh,1
+Bulgaria,1
+Colombia,1
+Ethiopia,1
+Guyana,1
+Indonesia,1
+Iraq,1
+Jordan,1
+Moldova,1
+Singapore,1
+Trinidad & Tobago,1
+Vietnam,1
+
+#  
+# Start date: 20230201
+# End date: 20230807
+City,Users
+Evanston,149
+Saarbrucken,130
+Chicago,92
+Ashburn,72
+Homburg,56
+Columbus,45
+Atlanta,39
+New York,37
+London,26
+Frankfurt,25
+Paris,25
+Madison,24
+San Antonio,19
+Amsterdam,17
+Charlottesville,17
+Cheyenne,17
+Los Angeles,17
+Austin,15
+Seattle,15
+Des Moines,13
+Durham,13
+Oxford,13
+Salt Lake City,13
+Boston,12
+Helsinki,12
+Milwaukee,12
+Moses Lake,12
+Blacksburg,11
+Eugene,11
+Seoul,11
+Toronto,11
+Washington,11
+Glasgow,10
+Oak Bay,10
+Baltimore,9
+Calgary,9
+Getzville,9
+Vienna,9
+Cambridge,8
+Dallas,8
+Gainesville,8
+Santa Barbara,8
+Uppsala,8
+Wageningen,8
+Boulder,7
+Melbourne,7
+Nice,7
+Philadelphia,7
+San Jose,7
+Sydney,7
+Albuquerque,6
+Buffalo,6
+Dublin,6
+Perth,6
+Tel Aviv-Yafo,6
+Valencia,6
+Ann Arbor,5
+Bahia Blanca,5
+Charleston,5
+Cincinnati,5
+Denver,5
+Fort Collins,5
+Honolulu,5
+Isla Vista,5
+San Diego,5
+Tulsa,5
+University Park,5
+Athens,4
+Aurora,4
+Belmont,4
+Brisbane,4
+Cleveland,4
+Davis,4
+Ecublens,4
+Englewood,4
+Fredericton,4
+Greensboro,4
+Houston,4
+Konstanz,4
+Las Cruces,4
+Long Branch,4
+Mexico City,4
+Moscow,4
+New Orleans,4
+Ormskirk,4
+Phoenix,4
+San Francisco,4
+St. Louis,4
+Stanford,4
+Suwon-si,4
+Vancouver,4
+Aarhus,3
+Altoona,3
+Bangkok,3
+Belfast,3
+Bengaluru,3
+Bloomington,3
+Delhi,3
+Doral,3
+Gunnison,3
+Hamilton,3
+Indore,3
+Ithaca,3
+Kawasaki,3
+Lawrence,3
+Leuven,3
+Minneapolis,3
+Montgomery,3
+New Haven,3
+Oakland,3
+Orlando,3
+Oskaloosa,3
+Oslo Municipality,3
+Palo Alto,3
+Perry,3
+Piscataway,3
+Ponta Delgada,3
+Portland,3
+Princeton,3
+Pullman,3
+Rotterdam,3
+Stony Brook,3
+Tehran,3
+Warsaw,3
+Worcester,3
+Zurich,3
+Ankara,2
+Bahawalpur,2
+Barcelona,2
+Be'er Sheva,2
+Berkeley,2
+Boydton,2
+Bunkyo City,2
+Camden,2
+Canberra,2
+Cedar City,2
+Chapel Hill,2
+Charlotte,2
+Cheektowaga,2
+Clemson,2
+College Park,2
+College Station,2
+Concord,2
+Copenhagen,2
+Daegu,2
+Daejeon,2
+DeFuniak Springs,2
+Deming,2
+Duluth,2
+Dunwoody,2
+Dusseldorf,2
+Exmore,2
+Flagstaff,2
+Fort Worth,2
+Goleta,2
+Hampton,2
+Hialeah Gardens,2
+Hope,2
+Hyderabad,2
+Iowa City,2
+Jackson,2
+Karachi,2
+Keokuk,2
+Kiel,2
+Koganei,2
+Kolkata,2
+Lake Ridge,2
+Lausanne,2
+Leicester,2
+Lewiston,2
+Liverpool,2
+Lucknow,2
+Lyon,2
+Madrid,2
+Manila,2
+Marietta,2
+Mesick,2
+Missoula,2
+Multan,2
+New Brunswick,2
+New Delhi,2
+Newcastle upon Tyne,2
+Norwich,2
+Oceanside,2
+Palmerston North,2
+Peoria,2
+Petah Tikva,2
+Pine Bluff,2
+Pittsburgh,2
+Plymouth,2
+Prague,2
+Pritzwalk,2
+Providence,2
+Quebec City,2
+Quilmes,2
+Ray,2
+Riverside,2
+Rochester,2
+Saint Paul,2
+Sao Paulo,2
+Shanghai,2
+Skokie,2
+Sparta,2
+State College,2
+Tadoussac,2
+Toledo,2
+Toluca,2
+Town and Country,2
+Turin,2
+Waltham,2
+West Point,2
+Wonju-si,2
+8790,1
+Achim,1
+Addis Ababa,1
+Ahmedabad,1
+Aizawl,1
+Alexandria,1
+Allendale Charter Township,1
+Americus,1
+Amherst,1
+Amiens,1
+Antlers,1
+Arcata,1
+Arden-Arcade,1
+Arima Borough Corporation,1
+Arlington,1
+Armidale,1
+Arnhem,1
+Arvada,1
+Ashland,1
+Atwater,1
+Audubon,1
+Ava,1
+Bac Ninh,1
+Bad Kreuznach,1
+Baghdad,1
+Bangor,1
+Barstow,1
+Baxter Springs,1
+Bay Shore,1
+Belen,1
+Belle Fourche,1
+Bern,1
+Bethesda,1
+Bleiswijk,1
+Blue Earth,1
+Blumenau,1
+Bogota,1
+Breckenridge,1
+Brentwood,1
+Brewer,1
+Bridgeport,1
+Bridgewater Township,1
+Brighton,1
+Brinkley,1
+Bristol,1
+Brno,1
+Broken Arrow,1
+Bucharest,1
+Budapest,1
+Burlington,1
+Cairns,1
+Cairo,1
+Campinas,1
+Canonsburg,1
+Canton,1
+Canyon,1
+Cardiff,1
+Carlsbad,1
+Carthage,1
+Castroville,1
+Catonsville,1
+Cebu City,1
+Ceske Budejovice,1
+Chadron,1
+Chatham,1
+Chisinau,1
+Chula Vista,1
+Clarksville,1
+Clayton,1
+Cluj-Napoca,1
+Coalgate,1
+Coimbatore,1
+Colcord,1
+Colesville,1
+College Place,1
+Cologne,1
+Coloma,1
+Conyers,1
+Coral Springs,1
+Cork,1
+Corpus Christi,1
+Corvallis,1
+Coshocton,1
+Cottage Grove,1
+Covington,1
+Crissier,1
+Croydon,1
+Crystal City,1
+Dawson,1
+Defiance,1
+Delmar,1
+Des Plaines,1
+Deyang,1
+Dhaka,1
+Dickson,1
+Dillon,1
+Dourados,1
+Dover,1
+Draper,1
+Durban,1
+East Lansing,1
+Eau Claire,1
+Edinburgh,1
+Elk Grove,1
+Elmira,1
+Eureka,1
+Eynsham,1
+Fairfield,1
+Florissant,1
+Forest City,1
+Fort Lupton,1
+Fort St. John,1
+Frankenberg (Eder),1
+Franklin Township,1
+Frederick,1
+Fredericksburg,1
+Galesburg,1
+Garching,1
+Garden City,1
+Gatineau,1
+Gebze,1
+Gelugor,1
+General Santos City,1
+Georgetown,1
+Giza,1
+Gladwin,1
+Glendale,1
+Goslar,1
+Gouda,1
+Granby,1
+Grapevine,1
+Grayslake,1
+Greenwich,1
+Griffith,1
+Groesbeck,1
+Groningen,1
+Guangzhou,1
+Guelph,1
+Guilford,1
+Guymon,1
+Gypsum,1
+Haarlem,1
+Halmstad,1
+Hamedan,1
+Hangzhou,1
+Harris Hill,1
+Harvard,1
+Hastings,1
+Hawkinsville,1
+Hays,1
+Heerhugowaard,1
+Hendersonville,1
+Hereford,1
+Hialeah,1
+Hollywood,1
+Huntington,1
+Iksan,1
+Imphal,1
+Indianapolis,1
+Istanbul,1
+Jacksonville,1
+Jerusalem,1
+Juriquilla,1
+Kanazawa,1
+Karmiel,1
+Kassel,1
+Key West,1
+Kingsburg,1
+Kita City,1
+Kitimat,1
+Knoxville,1
+Kochi,1
+Kuala Terengganu,1
+Lafayette,1
+Lahore,1
+Lakeland,1
+Lamoni,1
+Lancaster,1
+Las Vegas,1
+Laurel Hollow,1
+Laurens,1
+Le Mars,1
+Lebanon,1
+Lenoir,1
+Levelland,1
+Lewistown,1
+Lexington,1
+Lilburn,1
+Lincoln,1
+Linthicum Heights,1
+Lipa,1
+Livingston,1
+Long Beach,1
+Loretto,1
+Los Banos,1
+Louisa,1
+Lovelock,1
+Lucena,1
+Lulea,1
+Macon,1
+Madoc,1
+Maldon,1
+Malvern,1
+Manhattan,1
+Mankato,1
+Manor,1
+Marine City,1
+Marinette,1
+Marseille,1
+Marshfield,1
+Martinez,1
+Marvin,1
+Maryland Heights,1
+Mayville,1
+McCamey,1
+McGregor,1
+McMinnville,1
+Medford,1
+Medina,1
+Menlo Park,1
+Menton,1
+Miami,1
+Middlefield,1
+Midland,1
+Milan,1
+Mill Creek,1
+Millburn,1
+Milton Keynes,1
+Minato City,1
+Minnetonka,1
+Modling,1
+Monmouth,1
+Monticello,1
+Montpellier,1
+Montreal,1
+Morecambe,1
+Morehead City,1
+Moreno Valley,1
+Morgan Hill,1
+Morrisville,1
+Moulton,1
+Mount Pleasant,1
+Murfreesboro,1
+Naga,1
+Nagpur,1
+Naples,1
+Nashville,1
+Neenah,1
+Neuchatel,1
+New Albany,1
+Newark,1
+Newbury,1
+Newmarket,1
+Newport News,1
+Newton,1
+Niihama,1
+Norman,1
+North Charleston,1
+North Massapequa,1
+Northfield,1
+Notre Dame,1
+Oak Park,1
+Obihiro,1
+Ocala,1
+Ontario,1
+Orange Lake,1
+Osborne,1
+Osceola,1
+Ozark,1
+Padua,1
+Paisley,1
+Paju-si,1
+Park Forest,1
+Pasadena,1
+Pasig,1
+Pekanbaru,1
+Pella,1
+Pendleton,1
+Pietermaritzburg,1
+Plainview,1
+Plainville,1
+Plovdiv,1
+Poolesville,1
+Port Arthur,1
+Port Washington,1
+Port Wing,1
+Portage,1
+Portola Valley,1
+Potsdam,1
+Powell River,1
+Pozuelo de Alarcon,1
+Preston,1
+Pretoria,1
+Prineville,1
+Provo,1
+Pruszkow,1
+Pulaski,1
+Pune,1
+Rafaela,1
+Raleigh,1
+Rancho Cordova,1
+Rancho Cucamonga,1
+Reading,1
+Redwood City,1
+Reims,1
+Reno,1
+Rexburg,1
+Rib Lake,1
+Richmond,1
+Richmond Hill,1
+Ridgecrest,1
+Rio Grande,1
+Rio de Janeiro,1
+River Falls,1
+Riyadh,1
+Rosenheim,1
+Rutland,1
+Sacramento,1
+Saginaw,1
+Saint Ann,1
+Saint Michael,1
+Saint-Hyacinthe,1
+Salamanca,1
+San Carlos,1
+San Marcos,1
+Sandpoint,1
+Santa Clara,1
+Santa Claus,1
+Santiago de Compostela,1
+Santiago de Queretaro,1
+Sapporo,1
+Sargodha,1
+Saskatoon,1
+Savannah,1
+SeaTac,1
+Seagoville,1
+Selmer,1
+Seropedica,1
+Shangqiu,1
+Sharon,1
+Sheffield,1
+Shinagawa City,1
+Shinjuku City,1
+Silver Spring,1
+Silver Springs,1
+Singapore,1
+Sioux Center,1
+Sioux Rapids,1
+Slough,1
+Smyrna,1
+South Lyon,1
+Springfield,1
+St Albans,1
+St Andrews,1
+St Helens,1
+Statham,1
+Stayton,1
+Sturgeon Bay,1
+Sullivan,1
+Summerville,1
+Sutton,1
+Tallulah,1
+Tampa,1
+Tekirdag,1
+Tempe,1
+Teresina,1
+Terrassa,1
+Thisted,1
+Toowoomba,1
+Travelers Rest,1
+Trento,1
+Tubingen,1
+Urbana,1
+Uruli Kanchan,1
+Utrecht,1
+Utsunomiya,1
+Valparaiso,1
+Victoria,1
+Vina del Mar,1
+Vincennes,1
+Virginia Beach,1
+Visakhapatnam,1
+Waco,1
+Waihirere,1
+Wallace,1
+Warrenton,1
+Waterloo,1
+Wayne,1
+Wellington,1
+Weslaco,1
+West Chester,1
+Westwood,1
+Wilmington,1
+Wilton,1
+Winchester,1
+Winnipeg,1
+Wroclaw,1
+Wyoming,1
+Ypsilanti Charter Township,1
+Zhanjiang,1
+Zhongli District,1
+
+#  
+# Start date: 20230201
+# End date: 20230807
+First user default channel group,New users
+Direct,1188
+Organic Search,738
+Referral,137
+Organic Social,11
+Organic Video,1
+
+#  
+# Start date: 20230201
+# End date: 20230807
+Session default channel group,Sessions
+Direct,2014
+Organic Search,1539
+Referral,1034
+Unassigned,573
+Organic Video,64
+Organic Social,11
