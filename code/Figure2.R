@@ -15,13 +15,15 @@ Figure2A <- manPlot(dataPath = "data/processed_trait_AGGREGATE_mapping_inbred.ts
                 sigThresh = NULL)
 
 # make a pxg plot to fit
-Figure2B <- pxgPlot(dataPath = "data/processed_trait_AGGREGATE_mapping_inbred.tsv")
+Figure2B <- pxgPlot(dataPath = "data/processed_trait_AGGREGATE_mapping_inbred.tsv") +
+  labs(y = "Trait value")
 
 # make a finemapping plot
+fine.df <- data.table::fread("data/processed_trait_V_1757246-4295865_bcsq_genes_inbred.tsv")
 Figure2C <- finePlotGene(dataPath = "data/processed_trait_V_1757246-4295865_bcsq_genes_inbred.tsv")
 Figure2C_tweek <- Figure2C +
   xlim(2.5, 3) +
-  ylim(9, max(Figure2C$data$VARIANT_LOG10p)) +
+  ylim(9, max(Figure2C$data$VARIANT_LOG10p)+1) +
   theme(legend.position = c(0.15, 0.8))
 
 # put them together.
