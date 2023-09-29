@@ -4,7 +4,7 @@ library(tidyverse)
 setwd(paste0(dirname(rstudioapi::getActiveDocumentContext()$path),"/.."))
 
 # read data
-dat <- data.table::fread("data/processed_length_Cry5B_AGGREGATE_mapping_loco.tsv") %>%
+dat <- data.table::fread("data/processed_length_TRAIT_AGGREGATE_mapping_loco.tsv") %>%
   dplyr::filter(CHROM != "MtDNA") %>%
   dplyr::distinct(marker, .keep_all = T)
 

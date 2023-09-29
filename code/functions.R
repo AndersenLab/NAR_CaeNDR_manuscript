@@ -198,8 +198,6 @@ max_logp <- unique(max(variant_df$VARIANT_LOG10p, na.rm = T))/150
 
 gene_plot <- ggplot(gene_df) +
   aes(text = paste0(GENE_NAME, "\n", WBGeneID)) +
-  geom_vline(aes(xintercept = peak_variant/1e6),
-             linetype=3, color = "cyan")+
   geom_segment(aes(x = ifelse(STRAND == "+", TRANSCRIPTION_START_POS/1e6, TRANSCRIPTION_END_POS/1e6),
                    xend = ifelse(STRAND == "+", TRANSCRIPTION_END_POS/1e6, TRANSCRIPTION_START_POS/1e6),
                    y = VARIANT_LOG10p,
@@ -210,6 +208,8 @@ gene_plot <- ggplot(gene_df) +
                    y = VARIANT_LOG10p+max_logp,
                    yend = VARIANT_LOG10p-max_logp,
                    color = VARIANT_IMPACT), data = variant_df) +
+  geom_vline(aes(xintercept = peak_variant/1e6),
+             linetype=3, color = "cyan")+
   scale_color_manual(values = c("MODIFIER" = "gray50",
                                 "LOW" = "gray30",
                                 "MODERATE" = "orange",
