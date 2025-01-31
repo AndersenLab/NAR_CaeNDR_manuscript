@@ -7,7 +7,7 @@ setwd(paste0(dirname(rstudioapi::getActiveDocumentContext()$path),"/.."))
 source("code/functions.R")
 
 # load Evans et al. 2021 abamectin traits
-at <- data.table::fread("/projects/b1059/projects/Tim/NAR_CaeNDR_manuscript/data/Evans2021_S2_abamectin_traits.csv", drop = 1) %>%
+at <- data.table::fread("data/Evans2021_S2_abamectin_traits.csv", drop = 1) %>%
   dplyr::select(-condition) %>%
   tidyr::pivot_wider(names_from = trait, values_from = phenotype) %>%
   dplyr::filter(!is.na(mean.TOF))
@@ -15,7 +15,7 @@ at <- data.table::fread("/projects/b1059/projects/Tim/NAR_CaeNDR_manuscript/data
 # export the mean.TOF trait to map with CaeNDR
 mean.TOF <- at %>%
   dplyr::select(strain, mean.TOF) %>%
-  rio::export(., file = "/projects/b1059/projects/Tim/NAR_CaeNDR_manuscript/data/mean.TOF.tsv")
+  rio::export(., file = "data/mean.TOF.tsv")
 
 # recreate the Manhattan plot from the NemaScan output
 Figure2A <- manPlot(dataPath = "data/processed_mean_TOF_AGGREGATE_mapping_loco.tsv",
@@ -25,7 +25,7 @@ Figure2A <- manPlot(dataPath = "data/processed_mean_TOF_AGGREGATE_mapping_loco.t
                     title = NULL,
                     sigThresh = NULL)
 
-# restict the aggregate mapping to the chr V 16mb QTL for plotting
+# restrict the aggregate mapping to the chr V 16mb QTL for plotting
 data.table::fread("data/processed_mean_TOF_AGGREGATE_mapping_loco.tsv") %>%
   dplyr::filter(peak_id == 3) %>%
   rio::export(., file = "data/processed_mean_TOF_AGGREGATE_mapping_loco_V_16175482.tsv")
